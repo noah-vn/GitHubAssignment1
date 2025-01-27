@@ -1,0 +1,11 @@
+body {
+    background-color: darkgrey;
+}
+
+.testbox {
+    background-color: dimgray;
+    border-radius: 5px;
+    border-color: rgba(53,53,53,0.34);
+    color: black;
+    padding: 20px;
+}
